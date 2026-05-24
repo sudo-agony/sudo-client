@@ -50,5 +50,5 @@ git push  # Push to YOUR repository
 ```
 
 
-## Contact Me
+## Do not contact Me
 **Email:** *[dev@sudo-flix.lol](mailto:dev@sudo-flix.lol)* 
