@@ -1,6 +1,7 @@
 {
   "name": "sudo-flix",
   "version": "4.7.0",
+  "packageManager": "pnpm@9.15.4",
   "private": true,
   "homepage": "https://github.com/sussy-code/smov",
   "scripts": {
